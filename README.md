@@ -12,10 +12,10 @@ In this project, I set up a mini honeynet in Azure and configured it to ingest l
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/aBDwnKb.jpg)
+![Architecture Diagram](https://i.imgur.com/QtX5blN.jpeg)
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https://i.imgur.com/YQNa9Pp.jpg)
+![Architecture Diagram](https://i.imgur.com/6WrASuP.jpeg)
 
 The architecture of the mini honeynet in Azure consists of the following components:
 
